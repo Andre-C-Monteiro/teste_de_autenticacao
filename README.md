@@ -1,2 +1,2 @@
 # teste_de_autenticacao
-Repositório para testar os processos de autenticação na plataforma.
+Repositorio para testar os processos de autenticacao na plataforma.
